@@ -35,7 +35,7 @@ if(!isset($_SESSION['login'])){
         <a href="#" class="az-logo">sw<span>apo</span>ter</a>
       </div><!-- az-sidebar-header -->
       <div class="az-sidebar-loggedin">
-        <div class="az-img-user online"><img src="https://via.placeholder.com/500x500" alt=""></div>
+        <div class="az-img-user online"><img src="../img/user.png" alt=""></div>
         <div class="media-body">
           <h6>Aziana Pechon</h6>
           <span>Premium Member</span>
@@ -151,28 +151,28 @@ if(!isset($_SESSION['login'])){
                 <p class="az-notification-text">You have 2 unread notification</p>
                 <div class="az-notification-list">
                   <div class="media new">
-                    <div class="az-img-user"><img src="https://via.placeholder.com/500x500" alt=""></div>
+                    <div class="az-img-user"><img src="../img/user.png" alt=""></div>
                     <div class="media-body">
                       <p>Congratulate <strong>Socrates Itumay</strong> for work anniversaries</p>
                       <span>Mar 15 12:32pm</span>
                     </div><!-- media-body -->
                   </div><!-- media -->
                   <div class="media new">
-                    <div class="az-img-user online"><img src="https://via.placeholder.com/500x500" alt=""></div>
+                    <div class="az-img-user online"><img src="../img/user.png" alt=""></div>
                     <div class="media-body">
                       <p><strong>Joyce Chua</strong> just created a new blog post</p>
                       <span>Mar 13 04:16am</span>
                     </div><!-- media-body -->
                   </div><!-- media -->
                   <div class="media">
-                    <div class="az-img-user"><img src="https://via.placeholder.com/500x500" alt=""></div>
+                    <div class="az-img-user"><img src="../img/user.png" alt=""></div>
                     <div class="media-body">
                       <p><strong>Althea Cabardo</strong> just created a new blog post</p>
                       <span>Mar 13 02:56am</span>
                     </div><!-- media-body -->
                   </div><!-- media -->
                   <div class="media">
-                    <div class="az-img-user"><img src="https://via.placeholder.com/500x500" alt=""></div>
+                    <div class="az-img-user"><img src="../img/user.png" alt=""></div>
                     <div class="media-body">
                       <p><strong>Adrian Monino</strong> added new comment on your photo</p>
                       <span>Mar 12 10:40pm</span>
@@ -183,14 +183,14 @@ if(!isset($_SESSION['login'])){
               </div><!-- dropdown-menu -->
             </div><!-- az-header-notification -->
             <div class="dropdown az-profile-menu">
-              <a href="" class="az-img-user"><img src="https://via.placeholder.com/500x500" alt=""></a>
+              <a href="" class="az-img-user"><img src="../img/user.png" alt=""></a>
               <div class="dropdown-menu">
                 <div class="az-dropdown-header d-sm-none">
                   <a href="" class="az-header-arrow"><i class="icon ion-md-arrow-back"></i></a>
                 </div>
                 <div class="az-header-profile">
                   <div class="az-img-user">
-                    <img src="https://via.placeholder.com/500x500" alt="">
+                    <img src="../img/user.png" alt="">
                   </div><!-- az-img-user -->
                   <h6>Aziana Pechon</h6>
                   <span>Premium Member</span>
